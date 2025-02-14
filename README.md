@@ -15,11 +15,11 @@ Una aplicación web sencilla que permite a los usuarios agregar nombres de amigo
 
 ## Estructura del Proyecto
 
--📁 amigo-secreto
--📄 index.html # Estructura principal de la aplicación
--📄 script.js # Lógica en JavaScript
--📄 styles.css # Estilos opcionales (CSS) 
--📄 README.md # Documentación del proyecto
+**amigo-secreto**
+- 📄 index.html # Estructura principal de la aplicación
+- 📄 script.js # Lógica en JavaScript
+- 📄 styles.css # Estilos opcionales (CSS) 
+- 📄 README.md # Documentación del proyecto
 
 ## Tecnologías Utilizadas
 
