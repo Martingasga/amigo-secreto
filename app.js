@@ -21,7 +21,7 @@ function agregarAmigo() {
 function actualizarLista() {
     let lista = document.getElementById("listaAmigos");
     lista.innerHTML = "";
-    amigos.forEach(nombre => {
+    amigos.forEach(nombre => { //Ciclo for each para iterar sobre el arreglo
         let li = document.createElement("li");
         li.textContent = nombre;
         lista.appendChild(li);
